@@ -1,10 +1,10 @@
 # RabbitMQTest
 
-Just a test for playing and having with with RabbitMQ.
+Just a test for playing and having fun with with RabbitMQ.
 
 Clone this repository.
 
-Edit the settings in Common / Location ConnectionFactory.cs to point to an installation of the MQ service.
+Edit the settings in Common / LocationConnectionFactory.cs to point to an installation of the MQ service.
 If you do not have one, use the docker file in the RabbitMQServerImage folder to create a Windows container.
 
 Run the BuildAndTest.ps1 script to build the code and run a quick test on it.
